@@ -68,6 +68,7 @@ interior_ptr
 internal
 literal
 long
+main
 module
 mutable
 namespace
